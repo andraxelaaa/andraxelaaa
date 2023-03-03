@@ -3,9 +3,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <img src="https://media.tenor.com/X2pAPJa27_AAAAAM/what-are-you-doing-liam-walsh.gif" width="200"/>
 </div>
-
+<div id ="interest">
+  <h2> Interested: </h2>
+  <ul>
+    <li> Taking part in a hackathon (can work on frontend and backend development.) 
+    <img src="https://i.pinimg.com/originals/58/b2/cf/58b2cfd8cea2e39f50b7781876d178b5.gif" title="reactOne" alt="reactOne" width="50" height="50"/></li>
+    <li> Web/Game Development. <img src="https://pic.funnygifsbox.com/uploads/2022/01/funnygifsbox.com-2022-01-22-12-31-51-85.gif" title="reactTwo" alt="reactTwo" width="50" height="50" /> </li>
+  </ul>
+</div>
+<br>
 <div id="languages">
-<img src="https://img.icons8.com/external-others-inmotus-design/256/external-Loading-loaders-others-inmotus-design-6.png" width="20px"/> Currently using: <br>
+<h3><img src="https://img.icons8.com/external-others-inmotus-design/256/external-Loading-loaders-others-inmotus-design-6.png" width="20px"/> Currently using:</h3><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
