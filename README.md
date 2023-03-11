@@ -37,3 +37,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height="40" />
 </div>
+
+<br><br>
+  
+  <ul><h5> 
+  Notes: <br>
+  <li> i'll try to be more active in publishing repositories working on UI/UX projects (for templates) after the next 3 months as a preservation of what I've learned from bootcamp. <img src="https://img-19.ccm.net/kk6ljbaL1Sv30HfnCCwSG2jGeSI=/1500x/smart/0ef5389fa57a4f69b59827673658377a/ccmcms-enccm/37292488.gif" width="70" height="55"></li>
+  
+  </h5></ul>
